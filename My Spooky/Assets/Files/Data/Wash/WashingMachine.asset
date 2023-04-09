@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4038fcae74bcbf442ba112efa02c206c, type: 3}
+  m_Name: WashingMachine
+  m_EditorClassIdentifier: 
+  itemsData:
+  - sprite: {fileID: 146578165, guid: fdd60c21ff061d64d88f8cfbbb0e192b, type: 3}
+    name: WashingMachine0
+    cost: 10
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1744299483, guid: fdd60c21ff061d64d88f8cfbbb0e192b, type: 3}
+    name: WashingMachine1
+    cost: 20
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1913402651, guid: fdd60c21ff061d64d88f8cfbbb0e192b, type: 3}
+    name: WashingMachine2
+    cost: 30
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1093578392, guid: fdd60c21ff061d64d88f8cfbbb0e192b, type: 3}
+    name: WashingMachine3
+    cost: 40
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 630650787, guid: fdd60c21ff061d64d88f8cfbbb0e192b, type: 3}
+    name: WashingMachine4
+    cost: 50
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -2040084488, guid: fdd60c21ff061d64d88f8cfbbb0e192b, type: 3}
+    name: WashingMachine5
+    cost: 60
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -464610020, guid: fdd60c21ff061d64d88f8cfbbb0e192b, type: 3}
+    name: WashingMachine6
+    cost: 70
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -976774361, guid: fdd60c21ff061d64d88f8cfbbb0e192b, type: 3}
+    name: WashingMachine7
+    cost: 80
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1620581732, guid: fdd60c21ff061d64d88f8cfbbb0e192b, type: 3}
+    name: WashingMachine8
+    cost: 90
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1179460189, guid: fdd60c21ff061d64d88f8cfbbb0e192b, type: 3}
+    name: WashingMachine9
+    cost: 100
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 682374771, guid: fdd60c21ff061d64d88f8cfbbb0e192b, type: 3}
+    name: WashingMachine10
+    cost: 110
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -361105680, guid: fdd60c21ff061d64d88f8cfbbb0e192b, type: 3}
+    name: WashingMachine11
+    cost: 120
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1349962836, guid: fdd60c21ff061d64d88f8cfbbb0e192b, type: 3}
+    name: WashingMachine12
+    cost: 130
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -579579016, guid: fdd60c21ff061d64d88f8cfbbb0e192b, type: 3}
+    name: WashingMachine13
+    cost: 140
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1438988675, guid: fdd60c21ff061d64d88f8cfbbb0e192b, type: 3}
+    name: WashingMachine14
+    cost: 150
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1350814954, guid: fdd60c21ff061d64d88f8cfbbb0e192b, type: 3}
+    name: WashingMachine15
+    cost: 160
+    count: 0
+    isPurchased: 0
+    isSelect: 0

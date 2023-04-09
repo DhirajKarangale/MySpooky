@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6dd1806fd8f07441851cd69ba1439b4, type: 3}
+  m_Name: ShowerRoomData
+  m_EditorClassIdentifier: 
+  machine: {fileID: 146578165, guid: fdd60c21ff061d64d88f8cfbbb0e192b, type: 3}
+  bottel: {fileID: -895436680, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+  cap: {fileID: -1759529077, guid: a07b82a311d31144ab408ba0357bb78b, type: 3}
+  dryer: {fileID: 1274112967, guid: 478607ddddf393849830c6e61604111a, type: 3}

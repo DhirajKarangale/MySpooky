@@ -1,0 +1,255 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4038fcae74bcbf442ba112efa02c206c, type: 3}
+  m_Name: Neckband
+  m_EditorClassIdentifier: 
+  itemsData:
+  - sprite: {fileID: -65118812, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem0
+    cost: 10
+    count: 0
+    isPurchased: 1
+    isSelect: 1
+  - sprite: {fileID: 1522717371, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem1
+    cost: 20
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1034892627, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem2
+    cost: 30
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1705286943, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem3
+    cost: 40
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 796535618, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem4
+    cost: 50
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -657980179, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem5
+    cost: 60
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 579185680, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem6
+    cost: 70
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -892158089, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem7
+    cost: 80
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -2084152066, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem8
+    cost: 90
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -174516681, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem9
+    cost: 100
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 679483926, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem10
+    cost: 110
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 4874413, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem11
+    cost: 120
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -550027428, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem12
+    cost: 130
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1689802625, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem13
+    cost: 140
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1673888521, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem14
+    cost: 150
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1877472396, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem15
+    cost: 160
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 184772819, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem16
+    cost: 170
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1872495242, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem17
+    cost: 180
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1498135192, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem18
+    cost: 190
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -110098170, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem19
+    cost: 200
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1593408066, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem20
+    cost: 210
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 619302266, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem21
+    cost: 220
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -79901233, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem22
+    cost: 230
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1213217799, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem23
+    cost: 240
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -2958295, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem24
+    cost: 250
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -457034365, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem25
+    cost: 260
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1788460638, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem26
+    cost: 270
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 853893971, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem27
+    cost: 280
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 877693015, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem28
+    cost: 290
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -2123804960, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem29
+    cost: 300
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 941900999, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem30
+    cost: 310
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -640633769, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem31
+    cost: 320
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1087185301, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem32
+    cost: 330
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1581552139, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem33
+    cost: 340
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -287456656, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem34
+    cost: 350
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1646413658, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem35
+    cost: 360
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1096300420, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem36
+    cost: 370
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1356465248, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem37
+    cost: 380
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1719456166, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem38
+    cost: 390
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1880157234, guid: cd57d3febf9637b4fa244b902d886b3e, type: 3}
+    name: NeckbandItem39
+    cost: 400
+    count: 0
+    isPurchased: 0
+    isSelect: 0

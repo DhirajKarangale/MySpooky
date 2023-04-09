@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4038fcae74bcbf442ba112efa02c206c, type: 3}
+  m_Name: BodyPatterns
+  m_EditorClassIdentifier: 
+  itemsData:
+  - sprite: {fileID: 2037121913, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem0
+    cost: 10
+    count: 0
+    isPurchased: 1
+    isSelect: 1
+  - sprite: {fileID: -1395594057, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem1
+    cost: 20
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1980501408, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem2
+    cost: 30
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 943616179, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem3
+    cost: 40
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 174799979, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem4
+    cost: 50
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 461704513, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem5
+    cost: 60
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 2017168223, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem6
+    cost: 70
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -102267581, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem7
+    cost: 80
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -147593551, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem8
+    cost: 90
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -460490766, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem9
+    cost: 100
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -958158225, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem10
+    cost: 110
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -2112324176, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem11
+    cost: 120
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1605744821, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem12
+    cost: 130
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1163868283, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem13
+    cost: 140
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1570548718, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem14
+    cost: 150
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1072016181, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem15
+    cost: 160
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1970797326, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem16
+    cost: 170
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -550931875, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem17
+    cost: 180
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1783896453, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem18
+    cost: 190
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1373605785, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem19
+    cost: 200
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1583101795, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem20
+    cost: 210
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 872600820, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem21
+    cost: 220
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1816446996, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem22
+    cost: 230
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1968080366, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem23
+    cost: 240
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 116937596, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem24
+    cost: 250
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1645989829, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem25
+    cost: 260
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 41052710, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem26
+    cost: 270
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1096516022, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem27
+    cost: 280
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -382846058, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem28
+    cost: 290
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -2087650287, guid: ba4609030b4d8fc4e950b9bd0a2edd05, type: 3}
+    name: BodypatternsItem29
+    cost: 300
+    count: 0
+    isPurchased: 0
+    isSelect: 0

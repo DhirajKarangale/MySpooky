@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4038fcae74bcbf442ba112efa02c206c, type: 3}
+  m_Name: Dryer
+  m_EditorClassIdentifier: 
+  itemsData:
+  - sprite: {fileID: 1274112967, guid: 478607ddddf393849830c6e61604111a, type: 3}
+    name: Dryer0
+    cost: 10
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1296465706, guid: 478607ddddf393849830c6e61604111a, type: 3}
+    name: Dryer1
+    cost: 20
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1144191844, guid: 478607ddddf393849830c6e61604111a, type: 3}
+    name: Dryer2
+    cost: 30
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1687257275, guid: 478607ddddf393849830c6e61604111a, type: 3}
+    name: Dryer3
+    cost: 40
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1074008928, guid: 478607ddddf393849830c6e61604111a, type: 3}
+    name: Dryer4
+    cost: 50
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -515514644, guid: 478607ddddf393849830c6e61604111a, type: 3}
+    name: Dryer5
+    cost: 60
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1517528293, guid: 478607ddddf393849830c6e61604111a, type: 3}
+    name: Dryer6
+    cost: 70
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 462724600, guid: 478607ddddf393849830c6e61604111a, type: 3}
+    name: Dryer7
+    cost: 80
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1728277181, guid: 478607ddddf393849830c6e61604111a, type: 3}
+    name: Dryer8
+    cost: 90
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1859637808, guid: 478607ddddf393849830c6e61604111a, type: 3}
+    name: Dryer9
+    cost: 100
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -54601167, guid: 478607ddddf393849830c6e61604111a, type: 3}
+    name: Dryer10
+    cost: 110
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1532363996, guid: 478607ddddf393849830c6e61604111a, type: 3}
+    name: Dryer11
+    cost: 120
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1121041791, guid: 478607ddddf393849830c6e61604111a, type: 3}
+    name: Dryer12
+    cost: 130
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1237863299, guid: 478607ddddf393849830c6e61604111a, type: 3}
+    name: Dryer13
+    cost: 140
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -722824043, guid: 478607ddddf393849830c6e61604111a, type: 3}
+    name: Dryer14
+    cost: 150
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -686352102, guid: 478607ddddf393849830c6e61604111a, type: 3}
+    name: Dryer15
+    cost: 160
+    count: 0
+    isPurchased: 0
+    isSelect: 0

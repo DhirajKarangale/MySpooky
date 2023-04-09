@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4038fcae74bcbf442ba112efa02c206c, type: 3}
+  m_Name: Handband
+  m_EditorClassIdentifier: 
+  itemsData:
+  - sprite: {fileID: -1423016009, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem0
+    cost: 10
+    count: 0
+    isPurchased: 1
+    isSelect: 1
+  - sprite: {fileID: -1023296062, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem1
+    cost: 20
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1276334719, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem2
+    cost: 30
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1024415898, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem3
+    cost: 40
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 299384487, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem4
+    cost: 50
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1648344975, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem5
+    cost: 60
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 744245108, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem6
+    cost: 70
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -518185127, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem7
+    cost: 80
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 779088599, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem8
+    cost: 90
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -251189033, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem9
+    cost: 100
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -741593957, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem10
+    cost: 110
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1891312077, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem11
+    cost: 120
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 2076898254, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem12
+    cost: 130
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -632895099, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem13
+    cost: 140
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -957202409, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem14
+    cost: 150
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1470644847, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem15
+    cost: 160
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1176542142, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem16
+    cost: 170
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -906035643, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem17
+    cost: 180
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1381315524, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem18
+    cost: 190
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 2027179655, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem19
+    cost: 200
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -519540541, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem20
+    cost: 210
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 531494495, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem21
+    cost: 220
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -743991894, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem22
+    cost: 230
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1956466673, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem23
+    cost: 240
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1249196838, guid: f1165e37d2d35e14d8d6762ead09b331, type: 3}
+    name: HandbandItem24
+    cost: 250
+    count: 0
+    isPurchased: 0
+    isSelect: 0

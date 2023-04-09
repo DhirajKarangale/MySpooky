@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4038fcae74bcbf442ba112efa02c206c, type: 3}
+  m_Name: Cape
+  m_EditorClassIdentifier: 
+  itemsData:
+  - sprite: {fileID: -1615383587, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem0
+    cost: 10
+    count: 0
+    isPurchased: 1
+    isSelect: 1
+  - sprite: {fileID: -539284130, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem1
+    cost: 20
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 961666274, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem2
+    cost: 30
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1530020553, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem3
+    cost: 40
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -2121812740, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem4
+    cost: 50
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 863923895, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem5
+    cost: 60
+    count: 0
+    isPurchased: 1
+    isSelect: 1
+  - sprite: {fileID: 823101790, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem6
+    cost: 70
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1769217362, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem7
+    cost: 80
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -121894831, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem8
+    cost: 90
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1591773304, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem9
+    cost: 100
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -985642999, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem10
+    cost: 110
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1652857370, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem11
+    cost: 120
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 820918370, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem12
+    cost: 130
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -11194714, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem13
+    cost: 140
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1557677428, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem14
+    cost: 150
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1610637526, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem15
+    cost: 160
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1524655491, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem16
+    cost: 170
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 515793088, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem17
+    cost: 180
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -61081593, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem18
+    cost: 190
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1690615705, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem19
+    cost: 200
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1155991279, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem20
+    cost: 210
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1031154610, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem21
+    cost: 220
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 20457162, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem22
+    cost: 230
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1995628609, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem23
+    cost: 240
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1908176662, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem24
+    cost: 250
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1018237749, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem25
+    cost: 260
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1444270885, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem26
+    cost: 270
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 23757361, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem27
+    cost: 280
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1307972765, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem28
+    cost: 290
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1705806863, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem29
+    cost: 300
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -121705203, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem30
+    cost: 310
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -821492408, guid: 9f8ec5c07d43c32449901a00d220cf80, type: 3}
+    name: CapeItem31
+    cost: 320
+    count: 0
+    isPurchased: 0
+    isSelect: 0

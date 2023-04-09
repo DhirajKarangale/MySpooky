@@ -1,0 +1,255 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4038fcae74bcbf442ba112efa02c206c, type: 3}
+  m_Name: Coffin
+  m_EditorClassIdentifier: 
+  itemsData:
+  - sprite: {fileID: -801323408, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin0
+    cost: 10
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -924356560, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin1
+    cost: 20
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -194163328, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin2
+    cost: 30
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1371928085, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin3
+    cost: 40
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1609928835, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin4
+    cost: 50
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 67568149, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin5
+    cost: 60
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -984835933, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin6
+    cost: 70
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 363722879, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin7
+    cost: 80
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1368329374, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin8
+    cost: 90
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -346691156, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin9
+    cost: 100
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -689014626, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin10
+    cost: 110
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -82821098, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin11
+    cost: 120
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1393728388, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin12
+    cost: 130
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1547721463, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin13
+    cost: 140
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1157065650, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin14
+    cost: 150
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -614011752, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin15
+    cost: 160
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -2079275599, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin16
+    cost: 170
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 518220160, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin17
+    cost: 180
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -514146973, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin18
+    cost: 190
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1095794194, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin19
+    cost: 200
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 721196173, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin20
+    cost: 210
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1672576453, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin21
+    cost: 220
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1923689272, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin22
+    cost: 230
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1331540123, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin23
+    cost: 240
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1819964566, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin24
+    cost: 250
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1670843563, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin25
+    cost: 260
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -955537663, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin26
+    cost: 270
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -551612017, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin27
+    cost: 280
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 719290610, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin28
+    cost: 290
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 880105735, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin29
+    cost: 300
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -819829338, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin30
+    cost: 310
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 2052157228, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin31
+    cost: 320
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -503964677, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin32
+    cost: 330
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -783313733, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin33
+    cost: 340
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1988295610, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin34
+    cost: 350
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 301824450, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin35
+    cost: 360
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 932748716, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin36
+    cost: 370
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 932674009, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin37
+    cost: 380
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1860702903, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin38
+    cost: 390
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 669314229, guid: b71215b56fc1e5f4fa69155c9b0c0bf2, type: 3}
+    name: Coffin39
+    cost: 400
+    count: 0
+    isPurchased: 0
+    isSelect: 0

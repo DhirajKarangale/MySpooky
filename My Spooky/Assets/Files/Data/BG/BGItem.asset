@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4038fcae74bcbf442ba112efa02c206c, type: 3}
+  m_Name: BGItem
+  m_EditorClassIdentifier: 
+  itemsData:
+  - sprite: {fileID: 21300000, guid: 4085f637a0b593a46812335b745def9f, type: 3}
+    name: BG1
+    cost: 10
+    isPurchased: 1
+    isSelect: 1
+  - sprite: {fileID: 21300000, guid: e359b24e8f12fda46bf3c9b63e6c2ee1, type: 3}
+    name: BG2
+    cost: 20
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: 085e3a5388f68b34bbc49c6f8939b20e, type: 3}
+    name: BG3
+    cost: 30
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: c0d224f7ca8488e429e65a0ff6586665, type: 3}
+    name: BG4
+    cost: 40
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: d1d6e583a7a91c247a58ee72fcfba402, type: 3}
+    name: BG5
+    cost: 50
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: 56aca1aa04702434099c57585a06a005, type: 3}
+    name: BG6
+    cost: 60
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: 1545d8f539341ac46bf5cab692b81ec4, type: 3}
+    name: BG7
+    cost: 70
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: 03ac53984ce91924ca5b80590a3d070f, type: 3}
+    name: BG8
+    cost: 80
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: 7a9296c5685e707468ccea5c74435780, type: 3}
+    name: BG9
+    cost: 90
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: f1a763524daec25438c6fc4f4bccf02c, type: 3}
+    name: BG10
+    cost: 100
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: cdb728a693fdb2f46b795dbd369f6ea8, type: 3}
+    name: BG11
+    cost: 110
+    isPurchased: 0
+    isSelect: 0

@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4038fcae74bcbf442ba112efa02c206c, type: 3}
+  m_Name: BackGround
+  m_EditorClassIdentifier: 
+  itemsData:
+  - sprite: {fileID: 21300000, guid: 22ab19fc02868d94dabed9a7ef306c1f, type: 3}
+    name: Background0
+    cost: 10
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: 18652dcd9686c4b418427f1d6cf568fd, type: 3}
+    name: Background1
+    cost: 20
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: 10a10ad7f321f964790a97fe411c0433, type: 3}
+    name: Background2
+    cost: 30
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: a7da4bc4c2c34e54eb593f2d5395fa3d, type: 3}
+    name: Background3
+    cost: 40
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: 2a7ae94c1a221ee42b95bf475c31b325, type: 3}
+    name: Background4
+    cost: 50
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: 29c7dd451a6c1314e840adfe3af687b7, type: 3}
+    name: Background5
+    cost: 60
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: 7693a50b4792a3343a5c3837e23bbfd5, type: 3}
+    name: Background6
+    cost: 70
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: e781773078f0fd74a811a0a4bb0a387d, type: 3}
+    name: Background7
+    cost: 80
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: 66e8b2e3d8aafde4b926dd7dae7d58ab, type: 3}
+    name: Background8
+    cost: 90
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: af7497d179d46b349a670557e310ee22, type: 3}
+    name: Background9
+    cost: 100
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 21300000, guid: 590bffbd0db162f49a1f7c0006cacc41, type: 3}
+    name: Background10
+    cost: 110
+    count: 0
+    isPurchased: 0
+    isSelect: 0

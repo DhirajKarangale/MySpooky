@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4038fcae74bcbf442ba112efa02c206c, type: 3}
+  m_Name: Detergent
+  m_EditorClassIdentifier: 
+  itemsData:
+  - sprite: {fileID: -895436680, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent0
+    cost: 10
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1624942696, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent1
+    cost: 20
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1749072036, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent2
+    cost: 30
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -836788545, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent3
+    cost: 40
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1066301851, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent4
+    cost: 50
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 430282216, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent5
+    cost: 60
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 828572231, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent6
+    cost: 70
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1058150005, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent7
+    cost: 80
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1500874683, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent8
+    cost: 90
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1010386210, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent9
+    cost: 100
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1753617539, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent10
+    cost: 110
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1475949560, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent11
+    cost: 120
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1382892400, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent12
+    cost: 130
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -72265533, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent13
+    cost: 140
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 251768277, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent14
+    cost: 150
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -2113333606, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent15
+    cost: 160
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -1436321725, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent16
+    cost: 170
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 1561916316, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent17
+    cost: 180
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: -135263387, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent18
+    cost: 190
+    count: 0
+    isPurchased: 0
+    isSelect: 0
+  - sprite: {fileID: 521711116, guid: 1adb5c78e412fba41a1a2b2e1c075305, type: 3}
+    name: Detergent19
+    cost: 200
+    count: 0
+    isPurchased: 0
+    isSelect: 0

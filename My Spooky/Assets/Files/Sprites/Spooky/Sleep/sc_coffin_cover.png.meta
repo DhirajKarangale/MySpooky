@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: b71215b56fc1e5f4fa69155c9b0c0bf2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sc_coffin_cover_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1736
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c99910dbbcc5448bb2dbcf05a34462
+      internalID: -801323408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1736
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0df991658cdc9c4a961956fed761d5f
+      internalID: -924356560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1736
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcf78640d32b7949a250018edf11b9e
+      internalID: -194163328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_3
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1736
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6654fdba0c568ab448aa43acf71a54b8
+      internalID: 1371928085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_4
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1736
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceb8112820c2ef4688a7eebc4cdbef5
+      internalID: 1609928835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_5
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1736
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc7df704eeb13f439e3e1af06238ffd
+      internalID: 67568149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_6
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1736
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75efb613ea3459146b0f6fc986952f84
+      internalID: -984835933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_7
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1736
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868f54d84efdf2e43a9a80afc65752ac
+      internalID: 363722879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1302
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fffbdfeff1bbd4d8c5ce708343816b
+      internalID: -1368329374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1302
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176e3413d85482f4abacb270e65e27d8
+      internalID: -346691156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_10
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1302
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d94e9e00a57ba64698bdfd213db20fa
+      internalID: -689014626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_11
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1302
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21acf107d9491ef4faa2c14f2c217f56
+      internalID: -82821098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_12
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1302
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520a51c5cde00e44c8f6ead9d6eb1761
+      internalID: -1393728388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_13
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1302
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63b7025615b7eb4baeb5ab5cb54d2b1
+      internalID: -1547721463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_14
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1302
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3095720235e3f5c4cb4e6a576bfe229c
+      internalID: -1157065650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_15
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1302
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac7ee7a495abfd48ac645a90dd21559
+      internalID: -614011752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3667b524ab8ddd40ba5d6ea7a5f245a
+      internalID: -2079275599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_17
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 868
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d150fe649110d4395f0a383df08c5c
+      internalID: 518220160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_18
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 868
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4241928651ea649a74562f71f7a93b
+      internalID: -514146973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_19
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 868
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03036f1c74c8a740ac6879b06e90ca8
+      internalID: -1095794194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_20
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 868
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7701721103f46034db46a2fd7daccf61
+      internalID: 721196173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_21
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 868
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb60999a559d8d40a928b280e770c70
+      internalID: -1672576453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_22
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 868
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3d0bfbadd638343b92fbe332a69a22
+      internalID: -1923689272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_23
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 868
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fabd945d7e78b45b45ac8aec4d8c5c
+      internalID: -1331540123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 434
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba0269853c0f474a9f7ae7a564da8fb
+      internalID: 1819964566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_25
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 434
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2385f0b643e28c9409df7c8b5179f472
+      internalID: 1670843563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_26
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 434
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c9bec43a3d5044195fa5cac63ea0e2
+      internalID: -955537663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_27
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 434
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0730a9525fa24b4428d7a7808a694672
+      internalID: -551612017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_28
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 434
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772a9daaa33a2fc4a8a08f209f0ee259
+      internalID: 719290610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_29
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 434
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc32c55bc594cf241810f5839f164de9
+      internalID: 880105735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_30
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 434
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33e4e42d1993164c95fe8f7ea227a17
+      internalID: -819829338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_31
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 434
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbe9aae039e52246bbcb891c009f875
+      internalID: 2052157228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03d1f46fcaf3a2448aab14a27f9dc1e
+      internalID: -503964677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_33
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9161c528888abff4c8866776a96dfcfe
+      internalID: -783313733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_34
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4dbfd57999e654496282440464836d
+      internalID: -1988295610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_35
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 0
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5b67d43e2af964e816d20a4b5ec2fc
+      internalID: 301824450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_36
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 0
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1303419bca56e2548a05bbf8d94d39ff
+      internalID: 932748716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_37
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 0
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18405b190a8dc38429604bd46487a2bf
+      internalID: 932674009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_38
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 0
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b90f1fabb76f547a54c78c39d11ce4
+      internalID: 1860702903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sc_coffin_cover_39
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 0
+        width: 296
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7450bd63334b5514ebce8931b8bbe0d7
+      internalID: 669314229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sc_coffin_cover_19: -1095794194
+      sc_coffin_cover_27: -551612017
+      sc_coffin_cover_36: 932748716
+      sc_coffin_cover_7: 363722879
+      sc_coffin_cover_4: 1609928835
+      sc_coffin_cover_0: -801323408
+      sc_coffin_cover_18: -514146973
+      sc_coffin_cover_37: 932674009
+      sc_coffin_cover_1: -924356560
+      sc_coffin_cover_38: 1860702903
+      sc_coffin_cover_24: 1819964566
+      sc_coffin_cover_6: -984835933
+      sc_coffin_cover_31: 2052157228
+      sc_coffin_cover_17: 518220160
+      sc_coffin_cover_10: -689014626
+      sc_coffin_cover_30: -819829338
+      sc_coffin_cover_35: 301824450
+      sc_coffin_cover_34: -1988295610
+      sc_coffin_cover_15: -614011752
+      sc_coffin_cover_25: 1670843563
+      sc_coffin_cover_3: 1371928085
+      sc_coffin_cover_21: -1672576453
+      sc_coffin_cover_26: -955537663
+      sc_coffin_cover_14: -1157065650
+      sc_coffin_cover_16: -2079275599
+      sc_coffin_cover_22: -1923689272
+      sc_coffin_cover_32: -503964677
+      sc_coffin_cover_2: -194163328
+      sc_coffin_cover_8: -1368329374
+      sc_coffin_cover_23: -1331540123
+      sc_coffin_cover_33: -783313733
+      sc_coffin_cover_5: 67568149
+      sc_coffin_cover_9: -346691156
+      sc_coffin_cover_29: 880105735
+      sc_coffin_cover_20: 721196173
+      sc_coffin_cover_13: -1547721463
+      sc_coffin_cover_39: 669314229
+      sc_coffin_cover_12: -1393728388
+      sc_coffin_cover_28: 719290610
+      sc_coffin_cover_11: -82821098
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
